@@ -6,4 +6,4 @@ After Download:
   * npm install
   * npm start
 
-Note: This application was created using ** Create-React-app **
+Note: This application was created using **Create-React-app**
