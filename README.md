@@ -5,3 +5,5 @@ In this project, you will have the opportunity to practice using React Router to
 After Download:
   * npm install
   * npm start
+
+Note: This application was created using ** Create-React-app**
